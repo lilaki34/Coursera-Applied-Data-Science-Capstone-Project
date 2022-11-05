@@ -1,0 +1,31 @@
+How to navigate this repository:
+
+1. DS-Capstone-Evangelia Kiosidou.pdf: This is the final presentation including observations and sample coding from all the uploaded Jupyter notebooks in this repository.
+
+
+The following notebooks are presented in the order that the project was organized.
+
+
+2. Data Collection through API.ipynb: Data collection through SpaceX API (summary in pages 8-12 of the pdf in item No. 1).
+
+3. Gathering data through Webscraping: Another way to collect data, through web pages, in this case we used Wikipedia to extract information on all different rocket types, boosters, payload ranges, successful/failed launches etc from SpaceX (summary in pages 13-17 of the pdf in item No. 1).
+
+4. SpaceX_Data Wrangling.ipynb: Exploratory Data Analysis (EDS) to find some patterns in the data and determine what would be the labels for training Supervised Models (summary in pages 18-21 of the pdf in item No. 1).
+
+5. Data Visualization in Python.ipynb: Graph creation through Python, to extract useful relationships between the data (summary of graphs in pages 22-24 and then pages 35-41 of the pdf file in item No. 1).
+
+6. SQL for Data Analysis.ipynb: EDA with embedded SQL commands in Python notebook. (summary of all related codes in pages 25-26 and then 42-51 of the pdf file in item No. 1)
+
+7. SpaceX_Launch_Site_Location_Folium: Creation of interactive maps using Folium maps for all SpaceX launch sites. If the interactive maps do not appear on GitHub, copy this link: https://github.com/lilaki34/Coursera-Applied-Data-Science-Capstone-Project/blob/main/SpaceX_Launch_Site_Location_Folium.ipynb to https://nbviewer.org/ and the maps will appear as they should (summary in page 27 and then pages 52-55 of the pdf file in item No. 1).
+
+8. Interactive Dashboard.txt: The Python code in txt format to create an interactive dashboard for performance of all launch sites (summary in page 28 and then pages 56-61 of the pdf file in item No. 1).
+
+9. Interactive Dashboard-Project Questions.txt: Answers to the project questions related to the observed trends through the dashboard.
+
+10. SpaceX_Machine Learning Prediction.ipynb: The ML classification models applied in this project, namely: a) decision trees, b) support vector machine, c) logistic regression and d)  KNN. There were some warnings in the notebook with some depreciated versions of some commands, you can copy the following link: https://github.com/lilaki34/Coursera-Applied-Data-Science-Capstone-Project/blob/main/SpaceX_Machine%20Learning%20Prediction.ipynb to https://nbviewer.org/ and the notebook can load easily.
+Also, all snapshots of the ML code in this Notebook can be found in pages 29-33 of the pdf file in item No. 1. The ML results are presented in pages 62-64 of the pdf file in item No. 1.
+
+Files: dataset_part_1.csv,  dataset_part_2.csv, dataset_part_3.csv, SpaxeX_Web_Scraping_data.csv are the data files raw or cleaned that were used throughout this project.
+
+Enjoy!
+
